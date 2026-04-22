@@ -4,7 +4,7 @@ A command‑line tool that takes a description and returns related words using t
 
 ## Example
 
-
+![Demo Output](demo.png)
 
 ## How to run
 1. Install Python 3.6+
